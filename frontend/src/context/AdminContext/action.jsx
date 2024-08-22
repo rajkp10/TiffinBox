@@ -1,0 +1,9 @@
+/**
+ * Author: Keval Gandevia
+ */
+
+export const GET_ALL_USER_PENDING_REQUESTS = "GET ALL USER PENDING REQUESTS";
+export const GET_SINGLE_PENDING_REQUEST = "GET SINGLE PENDING REQUEST";
+export const GET_ALL_USERS = "GET ALL USERS";
+export const GET_ANALYSIS = "GET ANALYSIS";
+export const SET_LOADING = "SET LOADING";
